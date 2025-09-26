@@ -1,5 +1,35 @@
-# 💫 About Me:
-Hi! I’m Srishankar, a passionate developer and data enthusiast.<br><br>I'm currently working on:<br><br>Building projects in Python, Flask, and data analytics.<br><br>I'm looking to collaborate on:<br><br>Open-source projects related to web development, data analytics, and automation.<br><br>I'm looking for help with:<br><br>Improving my skills in ETL tools, cloud technologies, and advanced analytics.<br><br>I'm currently learning:<br><br>PySpark, Power BI, and advanced Python frameworks.<br><br>Ask me about:<br><br>Python, Flask, SQL, Git, and project management.<br><br>Fun fact:<br><br>I enjoy solving challenging coding problems and turning ideas into real-world projects!
+┌─────────────────────────────────────────────┐
+│ 💫 **About Me**                              │
+│ Hi! I’m **Srishankar**, a developer and data│
+│ enthusiast passionate about building        │
+│ impactful projects and solving real-world   │
+│ problems.                                    │
+│                                             │
+│ 🚀 **Currently working on:**                │
+│ - Web apps and data-driven projects using   │
+│   **Python, Flask, SQL**                     │
+│                                             │
+│ 🤝 **Looking to collaborate on:**           │
+│ - Open-source initiatives in **web          │
+│   development, automation, and analytics**  │
+│                                             │
+│ 🆘 **Seeking help with:**                    │
+│ - Mastering **ETL tools, cloud tech, and    │
+│   advanced analytics**                       │
+│                                             │
+│ 📚 **Currently learning:**                   │
+│ - **PySpark, Power BI**, and advanced       │
+│   Python frameworks                          │
+│                                             │
+│ 💡 **Ask me about:**                         │
+│ - **Python, Flask, SQL, Git**, and project  │
+│   management                                 │
+│                                             │
+│ 🎉 **Fun fact:**                             │
+│ - I love turning ideas into projects and    │
+│   tackling challenging coding problems!      │
+└─────────────────────────────────────────────┘
+
 
 
 ## 🌐 Socials:
