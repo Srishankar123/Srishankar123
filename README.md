@@ -1,17 +1,5 @@
-# 💫 Hi, I’m **Srishankar** — a developer & data enthusiast building web and data-driven projects.
-
-## 🚀 Tech
-**Python | Flask | SQL**
-
-## 📚 Learning
-**PySpark | Power BI | Advanced Python**
-
-## 🤝 Open to
-Collaboration on web dev, automation & analytics
-
-## 🎉 Fun fact
-I love turning ideas into projects & tackling coding challenges
-
+## 💫 Hi, I’m **Srishankar**  
+# A developer & data enthusiast building web and data-driven projects.  
 
 
 
