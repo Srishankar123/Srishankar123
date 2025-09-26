@@ -1,5 +1,5 @@
-## 💫 Hi, I’m **Srishankar**  
-# A developer & data enthusiast building web and data-driven projects.  
+# 💫 Hi, I’m **Srishankar**  
+### A developer & data enthusiast building web and data-driven projects.  
 
 
 
