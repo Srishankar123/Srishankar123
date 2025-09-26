@@ -1,23 +1,10 @@
-# 💫 About Me
-Hi! I’m **Srishankar**, a developer and data enthusiast passionate about building impactful projects and solving real-world problems.
+💫 Hi, I’m **Srishankar** — a developer & data enthusiast building web and data-driven projects.  
 
-### 🚀 Currently working on
-- Web apps and data-driven projects using **Python, Flask, SQL**
+🚀 **Tech:** Python | Flask | SQL  
+📚 **Learning:** PySpark | Power BI | Advanced Python  
+🤝 **Open to:** Collaboration on web dev, automation & analytics  
+🎉 **Fun fact:** I love turning ideas into projects & tackling coding challenges
 
-### 🤝 Looking to collaborate on
-- Open-source initiatives in **web development, automation, and analytics**
-
-### 🆘 Seeking help with
-- Mastering **ETL tools, cloud technologies, and advanced analytics**
-
-### 📚 Currently learning
-- **PySpark, Power BI**, and advanced Python frameworks
-
-### 💡 Ask me about
-- **Python, Flask, SQL, Git**, and project management
-
-### 🎉 Fun fact
-- I love turning ideas into projects and tackling challenging coding problems!
 
 
 ## 🌐 Socials:
