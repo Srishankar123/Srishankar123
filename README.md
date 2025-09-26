@@ -1,4 +1,4 @@
-💫 Hi, I’m **Srishankar** — a developer & data enthusiast building web and data-driven projects.  
+💫 Hi, I’m  ## Srishankar — a developer & data enthusiast building web and data-driven projects.  
 
 🚀 **Tech:** Python | Flask | SQL  
 📚 **Learning:** PySpark | Power BI | Advanced Python  
